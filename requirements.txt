@@ -1,0 +1,7 @@
+imageio
+numpy
+matplotlib
+noise
+scipy
+jupyterlab
+pandoc
